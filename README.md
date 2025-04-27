@@ -1,3 +1,6 @@
+# NAME: JAGAN JP
+# REG.NO: 212224230099
+
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
@@ -11,15 +14,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 142815](https://github.com/user-attachments/assets/e900a661-a72c-4518-81db-48cdce173919)
+
 ## OUTPUT
 
-
-
-
-
-
-
-
+![Screenshot 2025-04-27 142821](https://github.com/user-attachments/assets/89047da2-0eca-4cc1-8b70-0f3e57d6e837)
 
 ## RESULT
 Thus the program to perform the basic left shift operation for 44 integer number with 3 shifts has been executed successfully.
@@ -29,11 +28,7 @@ Thus the program to perform the basic left shift operation for 44 integer number
 
  
  
-
-
 # EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT
-
-
 ## AIM
 
 Write a C Program to check whether the two numbers are equal or not using simple if statement.
@@ -48,8 +43,19 @@ Write a C Program to check whether the two numbers are equal or not using simple
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 143045](https://github.com/user-attachments/assets/f49f3f35-475a-4f50-a784-b481b9de0e56)
+
+## INPUT:
+
+![Screenshot 2025-04-27 143052](https://github.com/user-attachments/assets/7c4c77c9-21c4-4029-bfd8-63a5df006855)
+
+![Screenshot 2025-04-27 143111](https://github.com/user-attachments/assets/9c92dcb0-0c9d-4481-8995-09724ef6703e)
 
 ## OUTPUT
+
+![Screenshot 2025-04-27 143116](https://github.com/user-attachments/assets/42fd3462-07a7-4ad7-88bc-2d9920e4fa0a)
+
+![Screenshot 2025-04-27 143121](https://github.com/user-attachments/assets/886e701c-118f-4f2b-a7f3-2e584fd3dd75)
            
 ## RESULT
 
@@ -71,10 +77,15 @@ Write a C Program to convert the given string into lowercase.
 
 ## PROGRAM
 
-## OUTPUT
+![Screenshot 2025-04-27 143312](https://github.com/user-attachments/assets/d7af66f7-d6aa-4a5e-8420-1b9dacd54550)
 
+## INPUT:
 
+![Screenshot 2025-04-27 143318](https://github.com/user-attachments/assets/23b0f28a-a6d6-4199-a048-e4eaf92a69e5)
 
+## OUTPUT:
+
+![Screenshot 2025-04-27 143322](https://github.com/user-attachments/assets/d35621ee-83a2-4b2e-82c5-94b1d7fbd70c)
 
 ## RESULT
 Thus the program to convert the given string into lowercase has been executed successfully
@@ -96,11 +107,15 @@ Write a C Program to count the total number of words in a given string using do 
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 143510](https://github.com/user-attachments/assets/faa1dcfb-0d30-48c8-8fd1-dbbcee432958)
+
+## INPUT:
+
+![Screenshot 2025-04-27 143516](https://github.com/user-attachments/assets/9072f07f-b7b0-454b-b6bf-415fa40eb581)
+
 ## OUTPUT
 
-
-
-
+![Screenshot 2025-04-27 143520](https://github.com/user-attachments/assets/a7815855-204e-41d0-b2c2-982fff567646)
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
@@ -130,9 +145,16 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 143654](https://github.com/user-attachments/assets/d49a45a6-dafe-4adc-9a77-9376119b50e7)
+
+## INPUT:
+
+![Screenshot 2025-04-27 143659](https://github.com/user-attachments/assets/4ff39f6c-e81b-48aa-8d98-2ae952acc10f)
 
 ## OUTPUT
- 
+
+![Screenshot 2025-04-27 143704](https://github.com/user-attachments/assets/3f32ba70-588c-4e6c-9da2-de4e05fbcf3b)
+![Screenshot 2025-04-27 143708](https://github.com/user-attachments/assets/b54b90cf-43c8-4095-9484-15b0518c84ba)
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
