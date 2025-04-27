@@ -26,9 +26,7 @@ Thus the program to perform the basic left shift operation for 44 integer number
 
 
 
- 
- 
-# EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT
+## EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT
 ## AIM
 
 Write a C Program to check whether the two numbers are equal or not using simple if statement.
@@ -148,11 +146,9 @@ Step 8: End the program.
 ![Screenshot 2025-04-27 143654](https://github.com/user-attachments/assets/d49a45a6-dafe-4adc-9a77-9376119b50e7)
 
 ## INPUT:
-
 ![Screenshot 2025-04-27 143659](https://github.com/user-attachments/assets/4ff39f6c-e81b-48aa-8d98-2ae952acc10f)
 
 ## OUTPUT
-
 ![Screenshot 2025-04-27 143704](https://github.com/user-attachments/assets/3f32ba70-588c-4e6c-9da2-de4e05fbcf3b)
 ![Screenshot 2025-04-27 143708](https://github.com/user-attachments/assets/b54b90cf-43c8-4095-9484-15b0518c84ba)
 
